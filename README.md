@@ -4,3 +4,5 @@ Support and privacy policy pages for the Mox & Nib iOS game, served by GitHub Pa
 
 - https://jtleakey.github.io/mox-and-nib-support/
 - https://jtleakey.github.io/mox-and-nib-support/privacy.html
+
+FrameDelta support and privacy pages live under /framedelta/.
